@@ -1,4 +1,8 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvdleYDvdbzFfuJ4Q5tj44s)/dm/3/x7x1q78/d/live-3.m3u8
+
+
+
 https://www.dailymotion.com/video/x7x1q78_live-lmtv.m3u8
