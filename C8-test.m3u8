@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,CLOSED-CAPTION=NONE,NAME="1080" 
-https://www.dailymotion.com/video/x5gv5rr?maxwidth=480&maxheight=269&autoplay=true
+https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOEgs-TjdVydpT66hRT-lOw8CCVjUg53nUlMjnmRYd0qw)/p/dm/3/x5gv5rr/d/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
